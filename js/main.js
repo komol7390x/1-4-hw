@@ -127,3 +127,24 @@
 //         max_soz=soz[i]
 //     }
 // }console.log(max_soz)
+
+// 12-vazifa
+// const ishSoatlari = parseInt(prompt("ish soatini kiriting?"));
+// const soatlikHaq = parseInt(prompt("ish haqini kiriting?"));
+
+// if(ishSoatlari>40){
+//     console.log(`Oylik: ${ishSoatlari*soatlikHaq} so'm\nQo'shimcha:${ishSoatlari-40}soat uchun Bonus ${(ishSoatlari-40)*soatlikHaq} so'm\nUmumiy:${(ishSoatlari*soatlikHaq+(ishSoatlari-40)*soatlikHaq)} so'm`)
+// }else{
+//     console.log(`Oylik: ${ishSoatlari*soatlikHaq} so'm\nBonus: Yoq`)
+// }
+
+// 13-vazifa
+// let arr=[4, 7, 10, 15, 20];
+// const len1=arr.length
+// sum=0
+// for (let i=0;i<len1;i++){
+//     if(arr[i]%2==0){
+//         console.log("+"+arr[i])
+//         sum+=arr[i]
+//     }
+// }console.log("="+sum)

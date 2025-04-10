@@ -1,12 +1,10 @@
-// 10-vazifa
-// let jumla="JavaScripts dasturlash tilida kod yozish juda qiziqarli";
-// let soz=jumla.split(" ")
-// let len1=soz.length
-// let max1=soz[0].length
-// let max_soz=soz[0]
-// for (let i=1;i<len1;i++){
-//     if(max1<soz[i].length){
-//         max1=soz[i].length
-//         max_soz=soz[i]
+// 13-vazifa
+// let arr=[4, 7, 10, 15, 20];
+// const len1=arr.length
+// sum=0
+// for (let i=0;i<len1;i++){
+//     if(arr[i]%2==0){
+//         console.log("+"+arr[i])
+//         sum+=arr[i]
 //     }
-// }console.log(max_soz)
+// }console.log("="+sum)
