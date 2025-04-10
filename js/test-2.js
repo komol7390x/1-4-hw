@@ -1,11 +1,12 @@
 // 10-vazifa
-// let arr = [23, 5, 67, 1, 34];
-// max1=arr[0]
-// let len1=arr.length
-// for(let i=1;i<len1;i++){
-//     if(max1<arr[i]){
-//         max1=arr[i]
-//     }else{
-//         continue
+// let jumla="JavaScripts dasturlash tilida kod yozish juda qiziqarli";
+// let soz=jumla.split(" ")
+// let len1=soz.length
+// let max1=soz[0].length
+// let max_soz=soz[0]
+// for (let i=1;i<len1;i++){
+//     if(max1<soz[i].length){
+//         max1=soz[i].length
+//         max_soz=soz[i]
 //     }
-// }console.log(max1)
+// }console.log(max_soz)
