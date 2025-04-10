@@ -65,3 +65,9 @@
 // }else{
 //     console.log("Xatolik bor")
 // }
+
+// 7-vazifa
+let son=parseInt(prompt("Soni kiriting?")) 
+while(son>0){
+    
+}
