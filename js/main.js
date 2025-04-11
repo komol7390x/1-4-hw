@@ -68,23 +68,17 @@
 // 7-vazifa
 // let son1=parseInt(prompt("Soni kiriting?")) 
 // const son2=son1;
-// let firstNumber=son1%10;
-// son1/=10;
-// son1=Math.floor(son1);
-
-//  let secondNumber=son1%10;
-// son1/=10;
-// son1=Math.floor(son1);
-
-// let thirdNumber=son1%10;
-// son1/=10;
-// son1=Math.floor(son1);
-
-// let sum=(firstNumber**3)+(secondNumber**3)+(thirdNumber**3);
-// if (sum==son2){
-//     console.log("Armstrong soni");
+// let sum=0
+// let dag=son1.toString().length
+// while(son1!=0){
+//     sum+=(son1%10)**dag
+//     son1=Math.floor(son1/10)
+// }
+// if(son2==sum){
+//     console.log("Bu son Armstrong son");
+    
 // }else{
-//     console.log("Armstrong soni emas");
+//     console.log("Bu son Armstrong son emas");
 // }
 
 // 8-vazifa
@@ -153,4 +147,17 @@
 // let arr2 = arr.reverse()
 // console.log(arr2)
 
-
+// 15-vazifa
+// const rand=Math.floor(Math.random()*100)+1;
+// let isTrue=true
+// while(isTrue=true){
+//     const son=+prompt(`Son kiriting:  "${rand}"`);
+//     if(son>rand){
+//         alert("Kichikroq");
+//     }else if(son<rand){
+//         alert("Kattaroq");
+//     }else if(son==rand){
+//         alert(`Siz Topdingiz! ${rand}`);
+//         isTrue=false
+//     }
+// }
