@@ -203,3 +203,5 @@
 //     alert("Yuzi 100 dan oshib keti")
 // }
 // console.log(`Yuzi: ${S}\nPeremetri: ${P}`);
+
+
