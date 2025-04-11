@@ -161,3 +161,15 @@
 //         isTrue=false
 //     }
 // }
+
+// 16-vazifa
+// const start=+prompt("Boshlang'ich soni kiriting: ")
+// const end=+prompt("Ohirgi soni kiriting: ")
+// let sum=0
+// for(let i=start;i<=end;i++){
+//     if (i%2==0){
+//         console.log(i);
+//         sum+=i
+//     }
+// }console.log("Yig'indisi: "+sum);
+
