@@ -46,12 +46,12 @@
 // let n =parseInt(prompt("Soni kiriting?"));
 // let a = 0;
 // let b = 1;
-// for (let i = 2; i <= n; i++) {
-//     change = a + b;
+// for (let i = 1; i < n; i++) {
+//     let c = a + b;
 //     a = b;
-//     b = change;
+//     b = c;
 //     }
-// console.log(change)
+// console.log(c)
 
 // 6-vazifa
 // let son1=parseInt(prompt("Soni kiriting?"))  
