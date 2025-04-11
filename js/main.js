@@ -46,7 +46,6 @@
 // let n =parseInt(prompt("Soni kiriting?"));
 // let a = 0;
 // let b = 1;
-// let change
 // for (let i = 2; i <= n; i++) {
 //     change = a + b;
 //     a = b;
@@ -153,3 +152,5 @@
 // const arr = [1, 2, 3, 4, 5];
 // let arr2 = arr.reverse()
 // console.log(arr2)
+
+
